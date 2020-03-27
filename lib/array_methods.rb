@@ -14,6 +14,7 @@ def using_reverse(array)
 end
 
 def using_first(array)
+  ["wow", "I", "am", "really", "learning", "arrays!"]
 
 end
 
